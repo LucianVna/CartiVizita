@@ -1,0 +1,6 @@
+D:\C#\GitHub\CartiVizita\CartiVizita\obj\Debug\netcoreapp3.1\CartiVizita.csprojAssemblyReference.cache
+D:\C#\GitHub\CartiVizita\CartiVizita\obj\Debug\netcoreapp3.1\CartiVizita.Form1.resources
+D:\C#\GitHub\CartiVizita\CartiVizita\obj\Debug\netcoreapp3.1\CartiVizita.csproj.GenerateResource.cache
+D:\C#\GitHub\CartiVizita\CartiVizita\obj\Debug\netcoreapp3.1\CartiVizita.AssemblyInfoInputs.cache
+D:\C#\GitHub\CartiVizita\CartiVizita\obj\Debug\netcoreapp3.1\CartiVizita.AssemblyInfo.cs
+D:\C#\GitHub\CartiVizita\CartiVizita\obj\Debug\netcoreapp3.1\CartiVizita.csproj.CoreCompileInputs.cache
